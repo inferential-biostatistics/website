@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "inferential.biostatistics"
+  favicon: "media/logo.svg"
+
+format:
+  html:
+    toc: false
+    page-layout: full
+    default-image-extension: svg
+    highlight-style: github
+    theme: 
+      - lumen
+      - html/custom.scss
+      
+knitr: true
+
+editor: source

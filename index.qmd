@@ -1,0 +1,34 @@
+---
+pagetitle: inferential.biostatistics
+---
+
+```{r}
+#| echo: false
+```
+
+![](media/logo){width=100%}
+
+![](media/expertise){width=100%}
+
+- early and late clinical development
+- dose escalation, finding, optimization
+- go/no-go decision making
+- pivotal trial design and read-out
+- clinical and commercial development strategy
+- health authority interactions
+- submissions and label negotiations
+- complex innovative designs
+- fluency across programming languages
+- statistical software engineering
+
+![](media/carrie){width=100%}
+
+Carrie Li, Ph.D. [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/carrie-li-0ba90516/)
+
+![](media/daniel){width=100%}
+
+Daniel Sabanés Bové, Ph.D. [`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/danielsabanesbove/)
+
+![](media/info){width=100%}
+
+We would love to hear from you! [`r fontawesome::fa("envelope")`](mailto:info@inferential.bio)
