@@ -10,6 +10,7 @@ pagetitle: inferential.biostatistics
 
 ![](media/expertise){width=100%}
 
+- frequentist, Bayesian and causal statistical inference
 - early and late clinical development
 - dose escalation, finding, optimization
 - go/no-go decision making

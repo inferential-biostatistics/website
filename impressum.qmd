@@ -4,14 +4,9 @@ pagetitle: Impressum
 
 inferential.biostatistics GmbH
 
-Friedrichstrasse 12
-
-4055 Basel
-
 vertreten durch den vorsitzenden Geschäftsführer Daniel Sabanés Bové
 
-E-Mail [info@inferential.bio](mailto:info@inferential.bio)
-
-Eingetragen im Handelsregister ...
-
-Umsatzsteuer-Identifikationsnummer CH ...
+- Anschrift: Friedrichstrasse 12, 4055 Basel
+- E-Mail: [info@inferential.bio](mailto:info@inferential.bio)
+- Handelsregister: [CH-270-4009081-4](https://www.zefix.ch/de/search/entity/list/firm/1631506)
+- Umsatzsteuer-Identifikationsnummer: [CHE-208.829.865](https://www.uid.admin.ch/Detail.aspx?uid_id=CHE208829865)
