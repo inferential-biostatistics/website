@@ -47,4 +47,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./${{ env.QUARTO_DIR }}/_site
           destination_dir: ${{ env.QUARTO_DIR }}
-          
+          cname: inferential.bio

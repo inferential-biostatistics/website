@@ -21,6 +21,7 @@ pagetitle: inferential.biostatistics
 - complex innovative designs
 - fluency across programming languages
 - statistical software engineering
+- teaching and coaching statistics and engineering
 
 ![](media/carrie){width=100%}
 
@@ -33,3 +34,4 @@ Daniel Sabanés Bové, Ph.D. [`r fontawesome::fa("linkedin")`](https://www.linke
 ![](media/info){width=100%}
 
 We would love to hear from you! [`r fontawesome::fa("envelope")`](mailto:info@inferential.bio)
+Have a look at our joint venture [RCONIS](https://rconis.com).
