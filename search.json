@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "impressum.html",
-    "href": "impressum.html",
+    "objectID": "legalnotice.html",
+    "href": "legalnotice.html",
     "title": "inferential.biostatistics",
     "section": "",
-    "text": "inferential.biostatistics GmbH\nvertreten durch den vorsitzenden Geschäftsführer Daniel Sabanés Bové\n\nAnschrift: Friedrichstrasse 12, 4055 Basel\nE-Mail: info@inferential.bio\nHandelsregister: CH-270-4009081-4\nUmsatzsteuer-Identifikationsnummer: CHE-208.829.865"
+    "text": "inferential.biostatistics LLC\nRepresented by the managing director Daniel Sabanés Bové.\n\nAddress: Friedrichstrasse 12, 4055 Basel, Switzerland\nEmail: info@inferential.bio\nCommercial Register: CH-270-4009081-4\nVAT Identification Number: CHE-208.829.865"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,12 @@
     "title": "inferential.biostatistics",
     "section": "",
     "text": "frequentist, Bayesian and causal statistical inference\nearly and late clinical development\ndose escalation, finding, optimization\ngo/no-go decision making\npivotal trial design, conduct and analysis\nclinical and commercial development strategy\nhealth authority interactions\nsubmissions and label negotiations\ncomplex innovative designs\nfluency across programming languages\nstatistical software engineering\nteaching and coaching statistics and engineering\n\n\nCarrie Li, Ph.D. \n\nDaniel Sabanés Bové, Ph.D. \n\nWe would love to hear from you!  Have a look at our joint venture RCONIS."
+  },
+  {
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "inferential.biostatistics",
+    "section": "",
+    "text": "inferential.biostatistics GmbH\nvertreten durch den vorsitzenden Geschäftsführer Daniel Sabanés Bové\n\nAnschrift: Friedrichstrasse 12, 4055 Basel, Schweiz\nE-Mail: info@inferential.bio\nHandelsregister: CH-270-4009081-4\nUmsatzsteuer-Identifikationsnummer: CHE-208.829.865"
   }
 ]
