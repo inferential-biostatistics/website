@@ -8,6 +8,8 @@ website:
     center:
       - text: "Impressum"
         href: impressum.qmd 
+      - text: "Legal Notice"
+        href: legalnotice.qmd
     
 format:
   html:

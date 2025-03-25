@@ -1,0 +1,13 @@
+---
+pagetitle: Legal Notice
+lang: en
+---
+
+inferential.biostatistics LLC
+
+Represented by the managing director Daniel Sabanés Bové.
+
+- Address: Friedrichstrasse 12, 4055 Basel, Switzerland
+- Email: [info@inferential.bio](mailto:info@inferential.bio)
+- Commercial Register: [CH-270-4009081-4](https://www.zefix.ch/en/search/entity/list/firm/1631506)
+- VAT Identification Number: [CHE-208.829.865](https://www.uid.admin.ch/Detail.aspx?uid_id=CHE208829865&lang=en)
